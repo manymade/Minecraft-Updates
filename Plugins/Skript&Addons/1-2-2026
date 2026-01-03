@@ -22,6 +22,11 @@ Skript-worldedit:
 src: https://modrinth.com/plugin/skript-worldedit
 support: (1.21-1.21.8) https://modrinth.com/plugin/skript-worldedit/version/llcQMlfA
 
+
 Tuske:
 src: https://github.com/Tuke-Nuke/TuSKe
-**warning support**: older-1.12
+warning support: (older-1.12) https://github.com/Tuke-Nuke/TuSKe/releases/tag/1.8.2
+
+Skellet:
+src: https://github.com/TheLimeGlass/Skellett
+warning support: (older-1.18) https://github.com/TheLimeGlass/Skellett/releases/tag/2.0.10
