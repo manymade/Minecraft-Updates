@@ -32,12 +32,11 @@ support: (1.21-1.21.7) https://github.com/APickledWalrus/skript-gui/releases/tag
 
 PoaSK
 src: https://www.spigotmc.org/resources/poask-skript-addon.104512/
-support: (1.12+) https://www.spigotmc.org/resources/poask-skript-addon.104512/download?version=617553
+support: (1.21+) https://www.spigotmc.org/resources/poask-skript-addon.104512/download?version=617553
 
 SkQuery
 src: https://github.com/SkQuery/SkQuery
 support: (1.21-1.21.4) https://github.com/SkQuery/SkQuery/releases/tag/4.3.2
-
 
 
 SkProxy
@@ -55,6 +54,14 @@ support: (legacy & 1.21+) https://github.com/Romitou/MongoSK/releases/tag/2.4.0
 SkriptPDC
 src: https://github.com/3Fendi3/SkriptPDC-API
 support: (1.21+) https://github.com/3Fendi3/SkriptPDC-API/releases/tag/update
+
+oopsk
+src: https://github.com/sovdeeth/oopsk
+support: (1.19-1.21) https://github.com/sovdeeth/oopsk/releases/tag/1.0-beta2
+
+SkCheese
+src: https://github.com/erenkarakal/SkCheese
+support: (1.19-1.21+) https://github.com/erenkarakal/SkCheese/releases/tag/1.6
 
 
 
@@ -99,7 +106,6 @@ src: https://github.com/MundoSK/MundoSK
 warning support: (older-1.12) https://github.com/MundoSK/MundoSK/releases/tag/1.8.5
 
 
-
 MorkazSk
 src: https://github.com/MorkaZ/MorkazSk
 warning support: (older-1.13) https://github.com/MorkaZ/MorkazSk/releases/tag/1.4
@@ -107,3 +113,7 @@ warning support: (older-1.13) https://github.com/MorkaZ/MorkazSk/releases/tag/1.
 SkUniversal
 src: https://www.spigotmc.org/resources/skuniversal.45392/
 warning support: (1.17) https://www.spigotmc.org/resources/skuniversal.45392/download?version=428614
+
+Skungee
+src: https://github.com/Skungee/Skungee-2.0.0
+warning support: (older-1.19) https://github.com/Skungee/Skungee-2.0.0/releases/tag/2.0.0-BETA-5
