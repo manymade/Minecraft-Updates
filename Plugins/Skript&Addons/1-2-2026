@@ -50,6 +50,10 @@ MongoSK
 src: https://github.com/Romitou/MongoSK
 support: (legacy & 1.21+) https://github.com/Romitou/MongoSK/releases/tag/2.4.0
 
+SkriptPDC
+src: https://github.com/3Fendi3/SkriptPDC-API
+support: (1.21+) https://github.com/3Fendi3/SkriptPDC-API/releases/tag/update
+
 
 
 TuSKe
@@ -91,3 +95,11 @@ warning support: (1.14) https://www.spigotmc.org/resources/misk-addon-1-14-1-dis
 MundoSK
 src: https://github.com/MundoSK/MundoSK
 warning support: (older-1.12) https://github.com/MundoSK/MundoSK/releases/tag/1.8.5
+
+MorkazSk
+src: https://github.com/MorkaZ/MorkazSk
+warning support: (older-1.13) https://github.com/MorkaZ/MorkazSk/releases/tag/1.4
+
+SkUniversal
+src: https://www.spigotmc.org/resources/skuniversal.45392/
+warning support: (1.17) https://www.spigotmc.org/resources/skuniversal.45392/download?version=428614
