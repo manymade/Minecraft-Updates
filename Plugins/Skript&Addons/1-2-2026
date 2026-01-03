@@ -63,6 +63,14 @@ SkCheese
 src: https://github.com/erenkarakal/SkCheese
 support: (1.19-1.21+) https://github.com/erenkarakal/SkCheese/releases/tag/1.6
 
+Skacket
+src: https://github.com/TheLimeGlass/Skacket
+support: (1.15-1.21.5) https://github.com/TheLimeGlass/Skacket/releases/tag/1.1.1
+
+Skript-json
+src: https://github.com/cooffeeRequired/skJson
+support: (older-1.21+) https://github.com/cooffeeRequired/skJson/releases/tag/5.4.1
+
 
 
 
@@ -123,3 +131,7 @@ warning support: (older-1.19) https://github.com/Skungee/Skungee-2.0.0/releases/
 SkEmail
 src: https://github.com/Olyno/SkEmail
 warning support: (older-1.19) https://github.com/Olyno/SkEmail/releases/tag/2.0
+
+Sklogs
+src: https://github.com/EquipableMC/SkLogs
+warning support: (older-1.20.6) https://github.com/EquipableMC/SkLogs/releases/tag/1.4.1
