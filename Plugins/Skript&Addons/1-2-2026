@@ -22,11 +22,31 @@ Skript-worldedit:
 src: https://modrinth.com/plugin/skript-worldedit
 support: (1.21-1.21.8) https://modrinth.com/plugin/skript-worldedit/version/llcQMlfA
 
+Skript-yaml
+src: https://github.com/Sashie/skript-yaml
+support: (1.21-1.21.8) https://github.com/Sashie/skript-yaml/releases
 
-Tuske:
+Skript-gui
+src: https://github.com/APickledWalrus/skript-gui
+support: (1.21-1.21.7) https://github.com/APickledWalrus/skript-gui/releases/tag/1.3.2
+
+SkQuery
+src: https://github.com/SkQuery/SkQuery
+support: (1.21-1.21.4) https://github.com/SkQuery/SkQuery/releases/tag/4.3.2
+
+
+TuSKe:
 src: https://github.com/Tuke-Nuke/TuSKe
 warning support: (older-1.12) https://github.com/Tuke-Nuke/TuSKe/releases/tag/1.8.2
 
 Skellet:
 src: https://github.com/TheLimeGlass/Skellett
 warning support: (older-1.18) https://github.com/TheLimeGlass/Skellett/releases/tag/2.0.10
+
+Skjade:
+src: https://github.com/Ankoki/SkJade
+warning support: (older-1.19.4) https://github.com/Ankoki/SkJade/releases/tag/1.4.3
+
+Tablisknu:
+src: https://github.com/TlatoaniHJ/Tablisknu
+warning support: (1.13-1.14) https://forums.skunity.com/resources/tablisknu.727/version/1989/download
