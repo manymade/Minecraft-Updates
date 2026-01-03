@@ -151,3 +151,7 @@ warning support: (older-1.20) https://github.com/TheLimeGlass/Skore/releases/tag
 PermSk
 src: https://github.com/iPlexy/PermSk
 warning support: (1.19) https://github.com/iPlexy/PermSk/releases/tag/2.0.0
+
+SkUtilities
+src: https://github.com/tim740/skUtilities
+warning support: (older-1.11) https://github.com/tim740/skUtilities/releases/tag/v0.9.2
