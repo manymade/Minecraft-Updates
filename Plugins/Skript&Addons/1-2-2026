@@ -135,3 +135,7 @@ warning support: (older-1.19) https://github.com/Olyno/SkEmail/releases/tag/2.0
 Sklogs
 src: https://github.com/EquipableMC/SkLogs
 warning support: (older-1.20.6) https://github.com/EquipableMC/SkLogs/releases/tag/1.4.1
+
+Skore
+src: https://github.com/TheLimeGlass/Skore
+warning support: (older-1.20) https://github.com/TheLimeGlass/Skore/releases/tag/2.0.6
