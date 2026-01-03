@@ -1,24 +1,24 @@
-Skript:
+Skript
 src: https://github.com/SkriptLang/Skript 
-supports: (1.21.0-1.21.11) https://github.com/SkriptLang/Skript/releases/tag/2.14.0-pre1 
+supports: (older & 1.21-1.21.11) https://github.com/SkriptLang/Skript/releases/tag/2.14.0-pre1 
 
 Skript-reflect
 src: https://github.com/SkriptLang/skript-reflect
-supports: (1.21.11+) https://github.com/SkriptLang/skript-reflect/releases/tag/v2.6.2
+supports: (1.12-1.21.11+) https://github.com/SkriptLang/skript-reflect/releases/tag/v2.6.2
 
-Skbee: 
+Skbee
 src: https://modrinth.com/plugin/skbee
 supports: (1.21.4-1.21.11) https://modrinth.com/plugin/skbee/version/HFBvboZW
 
-Skonic: 
+Skonic
 src: https://modrinth.com/plugin/skonic
 supports: (1.19-1.21.10) https://modrinth.com/plugin/skonic/version/1HKTKQlV
 
-Skript-particle: 
+Skript-particle 
 src: https://modrinth.com/plugin/skript-particle
 supports: (1.21-1.21.11) https://modrinth.com/plugin/skript-particle/version/YXeTptCy
 
-Skript-worldedit: 
+Skript-worldedit
 src: https://modrinth.com/plugin/skript-worldedit
 support: (1.21-1.21.8) https://modrinth.com/plugin/skript-worldedit/version/llcQMlfA
 
@@ -30,24 +30,52 @@ Skript-gui
 src: https://github.com/APickledWalrus/skript-gui
 support: (1.21-1.21.7) https://github.com/APickledWalrus/skript-gui/releases/tag/1.3.2
 
+PoaSK
+src: https://www.spigotmc.org/resources/poask-skript-addon.104512/
+support: (1.12+) https://www.spigotmc.org/resources/poask-skript-addon.104512/download?version=617553
+
 SkQuery
 src: https://github.com/SkQuery/SkQuery
 support: (1.21-1.21.4) https://github.com/SkQuery/SkQuery/releases/tag/4.3.2
 
+SkProxy
+src: https://modrinth.com/plugin/skproxy
+support: (1.18-1.21.1) https://modrinth.com/plugin/skproxy/version/awO490UD
+
+Animated-Skript
+src: https://github.com/DRAGNIL68/animated-skript
+support: (1.12.4+) https://github.com/DRAGNIL68/animated-skript/releases/tag/1.3.2
 
 
-TuSKe:
+
+TuSKe
 src: https://github.com/Tuke-Nuke/TuSKe
 warning support: (older-1.12) https://github.com/Tuke-Nuke/TuSKe/releases/tag/1.8.2
 
-Skellet:
+Skellet
 src: https://github.com/TheLimeGlass/Skellett
 warning support: (older-1.18) https://github.com/TheLimeGlass/Skellett/releases/tag/2.0.10
 
-Skjade:
+Skjade
 src: https://github.com/Ankoki/SkJade
 warning support: (older-1.19.4) https://github.com/Ankoki/SkJade/releases/tag/1.4.3
 
-Tablisknu:
+Tablisknu
 src: https://github.com/TlatoaniHJ/Tablisknu
 warning support: (1.13-1.14) https://forums.skunity.com/resources/tablisknu.727/version/1989/download
+
+Skraper
+src: https://github.com/NanoDankster/Skraper
+warning support: (older-1.12) https://github.com/NanoDankster/Skraper/releases/tag/1.2.1
+
+SkRayFall
+src: https://dev.bukkit.org/projects/skrayfall
+warning support: (older-1.19.1) https://dev.bukkit.org/projects/skrayfall/files/3861074
+
+Skream
+src: https://www.spigotmc.org/resources/addon-skream.97081/
+warning support: (1.16-1.17) https://www.spigotmc.org/resources/addon-skream.97081/download?version=433143
+
+Diskuise
+src: https://www.spigotmc.org/resources/diskuise.101529/
+warning support: (1.17-1.19) https://github.com/UnderscoreTud/diskuise/releases/tag/v0.3.4
