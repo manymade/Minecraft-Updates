@@ -35,6 +35,7 @@ src: https://github.com/SkQuery/SkQuery
 support: (1.21-1.21.4) https://github.com/SkQuery/SkQuery/releases/tag/4.3.2
 
 
+
 TuSKe:
 src: https://github.com/Tuke-Nuke/TuSKe
 warning support: (older-1.12) https://github.com/Tuke-Nuke/TuSKe/releases/tag/1.8.2
