@@ -1,0 +1,19 @@
+Skript:
+src: https://github.com/SkriptLang/Skript 
+supports: (1.21.0-1.21.11) https://github.com/SkriptLang/Skript/releases/tag/2.14.0-pre1 
+
+Skbee: 
+src: https://modrinth.com/plugin/skbee
+supports: (1.21.4-1.21.11) https://modrinth.com/plugin/skbee/version/HFBvboZW
+
+Skonic: 
+src: https://modrinth.com/plugin/skonic
+supports: (1.19-1.21.10) https://modrinth.com/plugin/skonic/version/1HKTKQlV
+
+Skript-particle: 
+src: https://modrinth.com/plugin/skript-particle
+supports: (1.21-1.21.11) https://modrinth.com/plugin/skript-particle/version/YXeTptCy
+
+Skript-worldedit: 
+src: https://modrinth.com/plugin/skript-worldedit
+support: (1.21-1.21.8) https://modrinth.com/plugin/skript-worldedit/version/llcQMlfA
