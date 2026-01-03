@@ -21,3 +21,7 @@ supports: (1.21-1.21.11) https://modrinth.com/plugin/skript-particle/version/YXe
 Skript-worldedit: 
 src: https://modrinth.com/plugin/skript-worldedit
 support: (1.21-1.21.8) https://modrinth.com/plugin/skript-worldedit/version/llcQMlfA
+
+Tuske:
+src: https://github.com/Tuke-Nuke/TuSKe
+**warning support**: older-1.12
