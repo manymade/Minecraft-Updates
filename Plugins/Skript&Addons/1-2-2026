@@ -71,6 +71,14 @@ Skript-json
 src: https://github.com/cooffeeRequired/skJson
 support: (older-1.21+) https://github.com/cooffeeRequired/skJson/releases/tag/5.4.1
 
+Skredis
+src: https://modrinth.com/plugin/skredis
+support: (1.21-1.21.10) https://modrinth.com/project/3R33dfbs/version/aBeIg5jE
+
+SkNMS
+src: https://modrinth.com/plugin/sknms
+support: (1.21-1.21.11) https://cdn.modrinth.com/data/GcWbK3W3/versions/3nKtrU14/SkNMS-1.4.0-1.21.11.jar
+
 
 
 
@@ -139,3 +147,7 @@ warning support: (older-1.20.6) https://github.com/EquipableMC/SkLogs/releases/t
 Skore
 src: https://github.com/TheLimeGlass/Skore
 warning support: (older-1.20) https://github.com/TheLimeGlass/Skore/releases/tag/2.0.6
+
+PermSk
+src: https://github.com/iPlexy/PermSk
+warning support: (1.19) https://github.com/iPlexy/PermSk/releases/tag/2.0.0
