@@ -46,6 +46,10 @@ Animated-Skript
 src: https://github.com/DRAGNIL68/animated-skript
 support: (1.12.4+) https://github.com/DRAGNIL68/animated-skript/releases/tag/1.3.2
 
+MongoSK
+src: https://github.com/Romitou/MongoSK
+support: (legacy & 1.21+) https://github.com/Romitou/MongoSK/releases/tag/2.4.0
+
 
 
 TuSKe
@@ -79,3 +83,7 @@ warning support: (1.16-1.17) https://www.spigotmc.org/resources/addon-skream.970
 Diskuise
 src: https://www.spigotmc.org/resources/diskuise.101529/
 warning support: (1.17-1.19) https://github.com/UnderscoreTud/diskuise/releases/tag/v0.3.4
+
+MiSK
+src: https://www.spigotmc.org/resources/misk-addon-1-14-1-discontinued.67507/
+warning support: (1.14) https://www.spigotmc.org/resources/misk-addon-1-14-1-discontinued.67507/download?version=275645
